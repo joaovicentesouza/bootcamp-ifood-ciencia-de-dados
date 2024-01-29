@@ -1,4 +1,4 @@
 # bootcamp-ifood-ciencia-de-dados
 
-desafio.py
-Sistema bancário simples desenvolvido durante a aula de python da DIO
+ifood-dev-week.ipynb
+Arquivo do projeto desenvolvido na Ifood Dev Week, onde calculei o NPS de um arquivo CSV com as notas de avaliações do BootCamp. Também foi feito uma análise de sentimento do comentários com ChatGPT.
